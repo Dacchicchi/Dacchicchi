@@ -1,3 +1,24 @@
+## Hi there 👋 I'm Adachi
+
+About me
+
+こんにちは！ I'm Adachi from Japan!
+
+<ul>
+  <li>
+    🏢 Construction management in the building industry -> design manager in the manufacturing industry -> I started studying web design and entered the IT industry
+  </li>
+  <li>
+    👨‍💻 I worked as a coder for 3-4 years, working on website development.
+  </li>
+  <li>
+    🎥 Currently, as a video editor, I am in charge of editing YouTube videos, creating videos introducing company services, and YouTube operations. (Recently, I am also interested in motion graphics.)
+  </li>
+  <li>
+    🤖 I started touching GitHub again because I wanted to get into the video industry and learn how to use AI!My goal now is to increase what I can do in video x IT while learning the basics of AI!
+  </li>
+</ul>
+
 
 <p align="left">
   <a href="https://github.com/Dacchicchi/Dacchicchi/">
