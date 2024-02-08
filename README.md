@@ -23,13 +23,9 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dacchicchi)](https://github.com/Dacchicchi/github-readme-stats)
-
 <!--
-アイコンを有効にする
+足立のGithuの実績（アイコン付き、デザインをカスタマイズ）
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dacchicchi&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dacchicchi&show_icons=true&theme=radical)
 
 <!--
